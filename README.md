@@ -10,7 +10,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
 - [Rodolpho da Silva Rocha](github.com/rodolphorocha)
-- [Vitor Manoel Silva Santana](github.com/vitormanoelssantana)
+- [Vitor Manoel Silva Santana](github.com/vitormsantanaa)
 - [Vitória de Souza](github.com/vitoriadesouza)
 
 Links do projeto:
